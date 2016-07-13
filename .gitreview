@@ -1,0 +1,4 @@
+[gerrit]
+host=172.16.5.6
+port=230
+project=learngit
